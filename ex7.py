@@ -1,3 +1,5 @@
+# Exercise 7. More Printing
+
 print("Mary had a little lamb.")
 print("Its fleece was white as {}.".format('sn"ow'))
 print("And everywhere that Mary went.")

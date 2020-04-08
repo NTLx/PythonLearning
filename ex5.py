@@ -1,3 +1,5 @@
+# Exercise 5. More Variables and Printing
+
 name='Zed A. Shaw'
 age=35
 height=74
